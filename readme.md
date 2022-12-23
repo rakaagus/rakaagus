@@ -45,7 +45,7 @@ __Check out my GitHub repository:__
 
 <h2> About Raka Agus Maulana⚡:</h2>
 
-I'm a Graduate Student living in Chicago, IL. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Chicago, drop an email and let's catch-up over Coffee!
+I am a student at the Nurul Fikri high school of technology, I have a hobby of design, reading this is based on when I was in high school!
 <!--  
 - Check out my Blog: [https://laxmena.com](https://laxmena.com)
 - Know more about me: [About Laxmena](https://laxmena.com/pages/about)
@@ -53,4 +53,4 @@ I'm a Graduate Student living in Chicago, IL. Outside Tech, I love to read, enjo
 
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:ConnectWith@laxmena.com">![ConnectWith@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/lakshmanan-meiyappan/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:kakakunyukya@gmail.com">![kakakunyukya@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/raka-agus-maulana-9aa207219/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>

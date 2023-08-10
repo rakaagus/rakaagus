@@ -22,7 +22,7 @@ I am a student at the Nurul Fikri high school of technology, I have a hobby of d
    - HMPSTI Multimedia Member
    - BlankOn Multimedia Member
    - Mudeng Support Team Art Devision
- #### 2. [SMK N 1 Bekasi](https://smkn1kotabekasi.sch.id/) | RPL | Bekasi `2018-2020`
+ #### 2. [SMK N 1 Bekasi](https://smkn1kotabekasi.sch.id/) | (RPL) Software Engineering | Bekasi `2018-2020`
    - Member Of Inori(Ichiban No Hikari) Japanese Club
 
 <h2> 💻 Tech Stack: </h2>

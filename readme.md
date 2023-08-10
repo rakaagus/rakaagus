@@ -9,7 +9,7 @@
 I'm Raka Agus Maulana! <br>
 I am a student at the Nurul Fikri high school of technology, I have a hobby of design, reading this is based on when I was in high school!
 - <i>Currently:</i> Student in Sekolah Tinggi Teknologi 
-- <i>Enthusias:</i> Full Stack Software Engineer, Cyber Security
+- <i>Enthusias:</i> BackEnd Engineer, Cyber Security, Mobile Developer
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Unknows@1139)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]((https://www.facebook.com/rakha.agus.5)])
@@ -19,10 +19,11 @@ I am a student at the Nurul Fikri high school of technology, I have a hobby of d
 <h2>📚 Education:</h2>
 
 #### 1. [Sekolah Tinggi Teknologi Nurul Fikri](https://nurulfikri.ac.id/) | Technical Information | Depok `2021-now`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
+   - HMPSTI Multimedia Member
+   - BlankOn Multimedia Member
+   - Mudeng Support Team Art Devision
  #### 2. [SMK N 1 Bekasi](https://smkn1kotabekasi.sch.id/) | RPL | Bekasi `2018-2020`
+   - Member Of Inori(Ichiban No Hikari) Japanese Club
 
 <h2> 💻 Tech Stack: </h2>
 

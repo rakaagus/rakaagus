@@ -47,6 +47,6 @@ I am a student at the Nurul Fikri high school of technology, I have a hobby of d
   <b><em>GitHub Stats:</em></b> <br/>
 
 
-![](https://github-readme-stats.vercel.app/api?username=rakhaagus&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rakhaagus&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhaagus&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=rakaagus&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rakaagus&theme=default&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakaagus&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
